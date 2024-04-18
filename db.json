@@ -1,4 +1,18 @@
 {
+    "windows": [
+      {
+        "id": 1,
+        "name": "My Window",
+        "tasks": [
+          {
+            "id": 1,
+            "beginsAt":  "2024-04-18:11:18:00Z",
+            "endsAt":  "2024-04-18:11:18:00Z",
+            "frequency": 31500000
+          }
+        ]
+      }
+    ],
     "processors": [
       {
         "id": 1,
@@ -7,6 +21,7 @@
         "status": "Online",
         "lastHeardFrom": "2024-04-18:11:18:00Z",
         "comments": "Primary Processor",
+        "tasksProcessed": 12,
         "audit": [
             {
                 "username": "testuser",
