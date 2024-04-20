@@ -1,9 +1,17 @@
 {
-    "windows": [
+  "systems": [
+    {
+      "id": 1
+    }
+
+  ], 
+  "windows": [
       {
         "id": 1,
         "name": "My Window",
         "sequenceNumber": 512,
+        "scopeId": "12345",
+        "duration": "5",
         "taskType": "WAVEFORM-1",
         "startsAt": "2024-04-18:11:18:00Z",
         "endsAt": "2024-04-18:11:18:00Z",
