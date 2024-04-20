@@ -1,10 +1,18 @@
 {
   "systems": [
     {
-      "id": 1
+      "id": 1,
+      "status": "Online"
     }
 
-  ], 
+  ],
+  "reports": [
+    { 
+      "id": 1,
+      "timestamp": "2024-04-18:11:18:00Z",
+      "content": "blah blah blah"
+    }
+  ],
   "windows": [
       {
         "id": 1,
